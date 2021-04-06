@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Radicle Foundation</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:site" content="@radiclefn" />
+    <meta name="twitter:creator" content="@radiclefn" />
+    <meta property="og:title" content="Radicle Foundation" />
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+  </head>
+  <body>
+    <header class="logo"><!-- @radicle-foundation.svg --></header>
+    <main>
+      <p>The Radicle Foundation is a Swiss non-profit foundation committed to
+      supporting projects and people developing non-extractive peer-to-peer
+      technologies that promote Internet freedom.</p>
+
+      <p>One such project is <a href="https://radicle.xyz">Radicle</a>, a peer-to-peer code
+      collaboration stack for decentralized communities.</p>
+
+      <p>The foundation is based in  Zug, Switzerland 🇨🇭, and was established in 2020.</p>
+    </main>
+    <nav>
+      <a href="/">home</a>
+      <span class="separator">~</span>
+      <a href="/join">join us</a>
+    </nav>
+    <footer>
+      &copy; 2021 Radicle Foundation
+    </footer>
+  </body>
+</html>

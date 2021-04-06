@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "Inter";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+  src: url("/fonts/Inter-Regular.otf");
+}
+
+:root {
+  --typeface: "Inter";
+}
+
+* {
+	outline: none !important;
+	box-sizing: border-box;
+}
+
+:root {
+	--color-primary: #ff55ff;
+	--color-secondary: #5555ff;
+	--color-foreground: #eaeaea;
+	--color-background: #0e171f;
+}
+
+
+body {
+	font-size: 20px;
+	font-weight: 400;
+	font-family: var(--typeface);
+	line-height: 1.5;
+	color: var(--color-foreground);
+	text-align: left;
+	background-color: #111;
+	max-width: 640px;
+	margin: auto;
+}
+
+html {
+	font-family: sans-serif;
+	line-height: 1.15;
+	height: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-ms-overflow-style: scrollbar;
+	-webkit-tap-highlight-color: transparent;
+}
+
+main, section {
+	display: block;
+}
+
+main {
+	margin-top: 3rem;
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+	margin-top: 3rem;
+}
+nav .separator {
+	color: var(--color-secondary);
+}
+nav a {
+	color: var(--color-foreground);
+	padding: 0 2rem;
+}
+nav a:hover {
+	text-decoration: underline;
+}
+
+.logo {
+	padding-left: 0.5rem;
+	padding-right: 2rem;
+}
+
+.logo svg {
+	display: block;
+	margin: auto;
+}
+
+header {
+	margin-top: 8rem;
+}
+
+body, input, textarea, button {
+	font-family: "Inter";
+	font-feature-settings: "ss01", "ss02", "cv01", "cv03";
+}
+
+a {
+	color: var(--color-secondary);
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+footer {
+	padding: 2rem;
+	font-size: 0.75rem;
+	color: var(--color-secondary);
+	opacity: 0.75;
+	text-align: center;
+	width: 100%;
+	display: block;
+}
+
+@media /* Mobile */
+only screen and (max-device-width: 720px) {
+	body {
+		font-size: 87.5%;
+		margin: 1rem;
+	}
+}
+
+@media /* Smaller desktop */
+only screen and (max-device-width: 720px),
+only screen and (max-width: 720px) {
+	body {
+		margin: 1rem;
+	}
+}

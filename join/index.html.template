@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Radicle Foundation</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:site" content="@radiclefn" />
+    <meta name="twitter:creator" content="@radiclefn" />
+    <meta property="og:title" content="Radicle Foundation" />
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+  </head>
+  <body id="join">
+    <header class="logo"><!-- @radicle-foundation.svg --></header>
+    <main>
+      <p>The Radicle Foundation is looking for exceptional individuals to join
+      its mission to foster a more humane Internet.</p>
+
+      <p>Candidates should be highly independent and creative problem solvers,
+      great communicators and passionate about peer-to-peer technologies. We
+      are looking for software engineers with experience in Rust, networking,
+      distributed systems, cryptography, as well as JavaScript, Ethereum and
+      Git, with a proven track record writing high-quality software,
+      to work on key components of the Radicle stack.</p>
+
+      <p>At the foundation, we work fully in the open. The ideal candidate has
+      experience with open source maintainership, can plan and work in the open
+      and clearly communicate designs and trade-offs with the community.</p>
+
+      <p>If this is you, we'd love to speak.</p>
+
+      <p>
+        <a href="mailto:work@radicle.foundation" target="_blank">
+          work@radicle.foundation
+        </a>
+      </p>
+    </main>
+    <nav>
+      <a href="/">home</a>
+      <span class="separator">~</span>
+      <a href="/join">join us</a>
+    </nav>
+    <footer>
+      &copy; 2021 Radicle Foundation
+    </footer>
+  </body>
+</html>
