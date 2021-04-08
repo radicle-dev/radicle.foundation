@@ -52,6 +52,7 @@ body {
   display: flex;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
+  padding: 0 1rem;
 }
 
 body * {
@@ -181,18 +182,4 @@ a.join:active {
 footer {
   color: var(--color-foreground-level-4);
   display: block;
-}
-
-@media /* Mobile */ only screen and (max-device-width: 720px) {
-  body {
-    font-size: 87.5%;
-    margin: 1rem;
-  }
-}
-
-@media /* Smaller desktop */ only screen and (max-device-width: 720px),
-  only screen and (max-width: 720px) {
-  body {
-    margin: 1rem;
-  }
 }
