@@ -19,16 +19,11 @@
 
       <p>One such project is <a href="https://radicle.xyz">Radicle</a>, a peer-to-peer code
       collaboration stack for decentralized communities.</p>
-
-      <p>The foundation is based in  Zug, Switzerland 🇨🇭, and was established in 2020.</p>
     </main>
-    <nav>
-      <a href="/">home</a>
-      <span class="separator">~</span>
-      <a href="/join">join us</a>
-    </nav>
+    <a class="join" href="/join">Join us</a>
     <footer>
-      &copy; 2021 Radicle Foundation
+      <p>🇨🇭 Established 2020 in Zug, Switzerland</p>
+      <p>🖋 Copyright 2021 Radicle Foundation</p>
     </footer>
   </body>
 </html>

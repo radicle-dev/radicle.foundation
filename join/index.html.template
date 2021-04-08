@@ -11,8 +11,10 @@
     <link rel="stylesheet" type="text/css" href="/css/index.css">
   </head>
   <body id="join">
-    <header class="logo"><!-- @radicle-foundation.svg --></header>
+    <a class="back" href="/"><- Back</a>
+    <header class="logo"><a href="/"><!-- @radicle-foundation.svg --></a></header>
     <main>
+
       <p>The Radicle Foundation is looking for exceptional individuals to join
       its mission to foster a more humane Internet.</p>
 
@@ -27,7 +29,7 @@
       experience with open source maintainership, can plan and work in the open
       and clearly communicate designs and trade-offs with the community.</p>
 
-      <p>If this is you, we'd love to speak.</p>
+      <p>If this is you, we’d love to speak.</p>
 
       <p>
         <a href="mailto:work@radicle.foundation" target="_blank">
@@ -35,13 +37,9 @@
         </a>
       </p>
     </main>
-    <nav>
-      <a href="/">home</a>
-      <span class="separator">~</span>
-      <a href="/join">join us</a>
-    </nav>
     <footer>
-      &copy; 2021 Radicle Foundation
+      <p>🇨🇭 Established 2020 in Zug, Switzerland</p>
+      <p>🖋 Copyright 2021 Radicle Foundation</p>
     </footer>
   </body>
 </html>
