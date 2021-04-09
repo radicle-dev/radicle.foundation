@@ -17,10 +17,10 @@
       supporting projects and people developing non-extractive peer-to-peer
       technologies that promote Internet freedom.</p>
 
-      <p>One such project is <a href="https://radicle.xyz">Radicle</a>, a peer-to-peer code
+      <p>One such project is <a href="https://radicle.xyz"><span>Radicle</span></a>, a peer-to-peer code
       collaboration stack for decentralized communities.</p>
     </main>
-    <a class="join" href="/join">Join us</a>
+    <a class="join" href="/join"><span>Join us</span> -></a>
     <footer>
       <p>🇨🇭 Established 2020 in Zug, Switzerland</p>
       <p>🖋 Copyright 2021 Radicle Foundation</p>
