@@ -122,7 +122,6 @@ p {
 }
 
 a {
-  text-decoration: none;
   border-bottom: 0.0625rem solid;
   color: var(--color-secondary);
   text-decoration: none;
