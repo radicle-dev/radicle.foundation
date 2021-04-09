@@ -12,7 +12,7 @@
   </head>
   <body id="join">
     <a class="back" href="/"><- Back</a>
-    <header class="logo"><a href="/"><!-- @radicle-foundation.svg --></a></header>
+    <header class="logo"><!-- @radicle-foundation.svg --></header>
     <main>
 
       <p>The Radicle Foundation is looking for exceptional individuals to join
