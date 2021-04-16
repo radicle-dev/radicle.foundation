@@ -68,7 +68,8 @@ header {
 }
 
 .logo svg {
-  width: 100%;
+  width: 220px;
+  height: 79px;
   display: block;
   margin: auto;
   float: left;
@@ -175,3 +176,7 @@ footer {
 footer p {
   margin-bottom: 0;
 }
+
+/*
+vim: ts=2:sw=2:expandtab
+*/
