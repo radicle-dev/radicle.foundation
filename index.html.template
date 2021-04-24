@@ -28,9 +28,6 @@
       collaboration stack for decentralized communities.</p>
     </main>
     <a class="join" href="/join"><span>Join us</span> -></a>
-    <footer>
-      <p>🇨🇭 Established 2020 in Zug, Switzerland</p>
-      <p>🖋 Copyright 2021 Radicle Foundation</p>
-    </footer>
+    <!-- @footer.html -->
   </body>
 </html>

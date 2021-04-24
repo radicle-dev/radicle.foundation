@@ -44,9 +44,6 @@
         </a>
       </p>
     </main>
-    <footer>
-      <p>🇨🇭 Established 2020 in Zug, Switzerland</p>
-      <p>🖋 Copyright 2021 Radicle Foundation</p>
-    </footer>
+    <!-- @footer.html -->
   </body>
 </html>

@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Radicle Foundation</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:site" content="@radiclefn" />
+    <meta name="twitter:creator" content="@radiclefn" />
+    <meta property="og:title" content="Radicle Foundation" />
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <link rel="preload" href="/fonts/Inter-Regular.woff" as="font" type="font/woff" />
+    <style>
+      @font-face {
+        font-family: "Inter";
+        src: url("/fonts/Inter-Regular.woff");
+      }
+    </style>
+
+  </head>
+  <body id="partners">
+    <header class="logo"><a href="/"><!-- @radicle-foundation.svg --></a></header>
+    <main>
+      <p>The Radicle Foundation is supported by the following people and institutions.</p>
+      <ul class="partners">
+        <li>
+          <a href="https://placeholder.vc/" target="blank">Placeholder</a>
+        </li>
+        <li>
+          <a href="https://blueyard.com/" target="blank">BlueYard Capital</a>
+        </li>
+        <li>
+          <a href="https://www.galaxydigital.io/" target="blank">Galaxy Digital</a>
+        </li>
+        <li>
+          <a href="https://www.nfx.com/" target="blank">NFX</a>
+        </li>
+        <li>
+          <a href="https://www.electriccapital.com/" target="blank">Electric Capital</a>
+        </li>
+        <li>
+          <a href="https://www.parafi.capital/" target="blank">ParaFi</a>
+        </li>
+        <li>
+          <a href="https://hypersphere.ventures/" target="blank">Hypersphere</a>
+        </li>
+        <li>
+          <a href="https://www.coinfund.io/" target="blank">CoinFund</a>
+        </li>
+        <li>
+          <a href="https://ventures.coinbase.com/" target="blank">Coinbase Ventures</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/balajis" target="blank">Balaji S. Srinivasan</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/fehrsam" target="blank">Fred Ehrsam</a>
+        </li>
+        <li>
+          <a href="http://www.systemone.vc/" target="blank">System.One</a>
+        </li>
+        <li>
+          <a href="http://notationcapital.com/" target="blank">Notation Capital</a>
+        </li>
+        <li>
+          <a href="https://www.tiny.vc/" target="blank">tiny</a>
+        </li>
+        <li>
+          <a href="https://www.cherry.vc/" target="blank">Cherry Ventures</a>
+        </li>
+        <li>
+          <a href="http://fenbushi.vc" target="blank">Fenbushi Capital</a>
+        </li>
+        <li>
+          <a href="https://1kx.network" target="blank">1kx</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/Melt_Dem" target="blank">Meltem Demirors</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/jutta_steiner" target="blank">Jutta Steiner</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/crainbf" target="blank">Brian Crain</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/charlessonghurst/" target="blank">Charles Songhurst</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/AlexLangeVC" target="blank">Alexander Lange</a>
+        </li>
+        <li>
+          <a href="https://edgeandnode.com/" target="blank">Edge &amp; Node</a>
+        </li>
+        <li>
+          <a href="https://www.hashkey.com/" target="blank">Hashkey</a>
+        </li>
+        <li>
+          <a href="https://coingecko.ventures/" target="blank">CoinGecko</a>
+        </li>
+        <li>
+          <a href="https://tlccollective.space/" target="blank">TLC Collective</a>
+        </li>
+        <li>
+          <a href="https://www.egirlcapital.com/" target="blank">eGirl Capital</a>
+        </li>
+        <li>
+          <a href="http://www.caballeroscapital.com/" target="blank">Caballeros Capital</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/josh_nussbaum" target="blank">Joshua Nussbaum</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/merschmax_" target="blank">Max Mersch</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/teempai" target="blank">Teemu Paivinen</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/colindhanna" target="blank">Colin Hanna</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/_shelk" target="blank">Alex Shelkovnikov</a>
+        </li>
+      </ul>
+    </main>
+    <!-- @footer.html -->
+  </body>
+</html>
