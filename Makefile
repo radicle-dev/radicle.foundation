@@ -1,4 +1,4 @@
-PAGES := index.html join/index.html partners/index.html
+PAGES := index.html join/index.html partners/index.html about/index.html
 
 build: $(PAGES)
 

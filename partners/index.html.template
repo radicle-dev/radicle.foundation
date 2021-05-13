@@ -22,7 +22,7 @@
     <header class="logo"><a href="/"><!-- @radicle-foundation.svg --></a></header>
     <main>
       <p>The Radicle Foundation is supported by the following people and institutions.</p>
-      <ul class="partners">
+      <ul class="people">
         <li>
           <a href="https://placeholder.vc/" target="blank">Placeholder</a>
         </li>

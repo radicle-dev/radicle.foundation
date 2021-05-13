@@ -44,6 +44,7 @@ body {
 body,
 input,
 textarea,
+nav,
 button {
   font-family: var(--typeface);
   font-feature-settings: "ss01", "ss02", "cv01", "cv03";
@@ -112,13 +113,21 @@ header {
   }
 }
 
+nav {
+  margin: 0;
+}
+nav a {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
 p {
   cursor: default;
   line-height: 1.5;
   margin-bottom: 1rem;
 }
 
-ul.partners {
+ul.people {
   margin-top: 1.5rem;
   padding-left: 0;
   display: grid;
@@ -126,7 +135,7 @@ ul.partners {
   gap: 0.375rem;
 }
 
-ul.partners li {
+ul.people li {
   list-style-type: none;
 }
 

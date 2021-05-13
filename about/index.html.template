@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Radicle Foundation</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="twitter:site" content="@radiclefn" />
+    <meta name="twitter:creator" content="@radiclefn" />
+    <meta property="og:title" content="Radicle Foundation" />
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <link rel="preload" href="/fonts/Inter-Regular.woff" as="font" type="font/woff" />
+    <style>
+      @font-face {
+        font-family: "Inter";
+        src: url("/fonts/Inter-Regular.woff");
+      }
+    </style>
+
+  </head>
+  <body id="partners">
+    <header class="logo"><a href="/"><!-- @radicle-foundation.svg --></a></header>
+    <main>
+      <p>Foundation Board</p>
+      <ul class="people">
+        <li>
+          <a href="https://cloudhead.io/" target="blank">Alexis Sellier</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/lftherios" target="blank">Eleftherios Diakomichalist</a>
+        </li>
+      </ul>
+      <br/>
+      <p>Collaborators</p>
+      <ul class="people">
+        <li>
+          <a href="https://github.com/kim" target="blank">Kim Altintop</a>
+        </li>
+        <li>
+          <a href="http://www.juliendonck.com/" target="blank">Julien Donck</a>
+        </li>
+        <li>
+          <a href="https://github.com/FintanH" target="blank">Fintan Halpenny</a>
+        </li>
+        <li>
+          <a href="https://angel.co/ange-royall-kahin" target="blank">Ange Royall-Kahin</a>
+        </li>
+        <li>
+          <a href="https://github.com/rudolfs" target="blank">Rūdolfs Ošiņš</a>
+        </li>
+        <li>
+          <a href="https://www.brandonoxendine.com/" target="blank">Brandon Oxendine</a>
+        </li>
+        <li>
+          <a href="https://github.com/geigerzaehler" target="blank">Thomas Scholtes</a>
+        </li>
+        <li>
+          <a href="https://github.com/xla" target="blank">Alexander Simmerl</a>
+        </li>
+        <li>
+          <a href="https://twitter.com/abbey_titcomb" target="blank">Abbey Titcomb</a>
+        </li>
+        <li>
+          <a href="https://github.com/CodeSandwich" target="blank">Igor Żuk</a>
+        </li>
+      </ul>
+    </main>
+    <!-- @footer.html -->
+  </body>
+</html>

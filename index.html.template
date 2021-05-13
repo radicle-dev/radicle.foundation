@@ -27,7 +27,10 @@
       <p>One such project is <a href="https://radicle.xyz"><span>Radicle</span></a>, a peer-to-peer code
       collaboration stack for decentralized communities.</p>
     </main>
-    <a class="join" href="/join"><span>Join us</span> -></a>
+    <nav>
+      <a href="/about"><span>About</span></a>
+      <a href="/join"><span>Join us</span> -></a>
+    </nav>
     <!-- @footer.html -->
   </body>
 </html>
