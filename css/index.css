@@ -80,31 +80,35 @@ header {
   display: block;
   margin: auto;
   float: left;
-  fill: var(--color-secondary);
-  animation: logoColor 32s infinite ease;
+  color: var(--color-secondary);
+  fill: currentColor;
 }
 
-@keyframes logoColor {
+.logo svg, a {
+  animation: pulse 16s 1 ease;
+}
+
+@keyframes pulse {
   14% {
-    fill: var(--color-secondary);
+    color: var(--color-secondary);
   }
   28% {
-    fill: var(--color-tertiary);
+    color: var(--color-tertiary);
   }
   42% {
-    fill: var(--color-positive);
+    color: var(--color-positive);
   }
   56% {
-    fill: var(--color-caution);
+    color: var(--color-caution);
   }
   70% {
-    fill: var(--color-negative);
+    color: var(--color-negative);
   }
   84% {
-    fill: var(--color-primary);
+    color: var(--color-primary);
   }
   100% {
-    fill: var(--color-secondary);
+    color: var(--color-secondary);
   }
 }
 
@@ -130,7 +134,6 @@ a {
   line-height: 1.5;
   color: var(--color-secondary);
   text-decoration: none;
-  animation: linkColor 32s infinite ease;
 }
 
 a span {
@@ -150,30 +153,6 @@ a.back {
   border: none;
   color: var(--color-foreground-level-4);
   animation: none;
-}
-
-@keyframes linkColor {
-  14% {
-    color: var(--color-secondary);
-  }
-  28% {
-    color: var(--color-tertiary);
-  }
-  42% {
-    color: var(--color-positive);
-  }
-  56% {
-    color: var(--color-caution);
-  }
-  70% {
-    color: var(--color-negative);
-  }
-  84% {
-    color: var(--color-primary);
-  }
-  100% {
-    color: var(--color-secondary);
-  }
 }
 
 footer {
